@@ -5,8 +5,6 @@ Features
 
 ✌️Secure Credential Storage: Safely store website names and associated login credentials locally on your computer.
 
-✌️Gmail Account Management: Specifically designed for managing Gmail accounts, providing a dedicated space for these credentials.
-
 ✌️Password Generator: Generate strong and secure passwords with the built-in password generator feature, enhancing your online security.
 
 ✌️Local Storage: All data is saved locally on your computer, ensuring privacy and security.
